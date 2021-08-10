@@ -9,6 +9,8 @@ I'm a new Web Developer learning about a lot of different things✨✨
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanpero87&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://youtube.com/fanpero87
 [twitter]: https://twitter.com/fanpero87
