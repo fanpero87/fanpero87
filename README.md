@@ -7,7 +7,12 @@ I'm a new Web Developer learning about a lot of different things✨✨
 [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="fanpero's GitHub Stats" src="https://github-readme-stats.fanpero87.vercel.app/api?username=fanpero87&show_icons=true&hide_border=true" />
+
+</details>
 
 [youtube]: https://youtube.com/fanpero87
 [twitter]: https://twitter.com/fanpero87
