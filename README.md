@@ -34,13 +34,6 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <hr>
-[![Fanpero's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanpero87&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 [youtube]: https://youtube.com/fanpero87
 [twitter]: https://twitter.com/fanpero87
