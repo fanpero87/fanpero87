@@ -2,12 +2,14 @@
 
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
+<div align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fanpero87)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16187102/fanpero87) 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="30px" />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height='40' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height='40' />](https://twitter.com/fanpero87)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height='40' />](https://www.linkedin.com/in/fabio-perez)
-
+</div>
+  
 - 🌱 Currently learning how to be a Full-Stack dev using the [TALL][TALL] stack (fyi [Livewire][Livewire] is awesome!)  🤣
 - :innocent: I also want to learn JavaScript and Vue
 - :dizzy_face: Besides all of that, DevOps it's something I'm also looking forward to learn.
