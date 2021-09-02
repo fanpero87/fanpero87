@@ -2,9 +2,9 @@
 
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
-<p align='center'>
+<div align='center'>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />](https://github.com/fanpero87)
-</p>
+</div>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' align='center' />](https://stackoverflow.com/users/16187102/fanpero87) 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height='40' align='center' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height='40' align='center' />](https://twitter.com/fanpero87)
