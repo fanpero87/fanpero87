@@ -1,4 +1,4 @@
-## Hi there, it's Fabio from Canada 👋
+# Hi there, it's Fabio from Canada 👋
 
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
@@ -15,7 +15,7 @@
 
 It's gonna take a while to get where I want to be, but I know I can do it :muscle:
 
-#### Languages and Tools that I know so far:
+## Languages and Tools
 
 <img align="left" height='40' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -31,11 +31,7 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 
 <img align="left" height='40' alt="Tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<img align="left" height='40' alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
 <img align="left" height='40' alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" height='40' alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" height='40' alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -43,8 +39,12 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 
 <img align="left" height='40' alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<img align="left" height='40' alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 
+<img align="left" height='40' alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vmware/vmware.png" />
+
+<img align="left" height='40' alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/proxmox/proxmox.png" />
+<br />
 <hr>
 
 [![Fanperos's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87)](https://github.com/anuraghazra/github-readme-stats)
