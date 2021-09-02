@@ -3,13 +3,9 @@
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
 [<img align='center' height='40' alt='github' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' />](https://github.com/fanpero87)
-
 [<img align='center' height='40' alt='stackoverflow' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />](https://stackoverflow.com/users/16187102/fanpero87) 
-
 [<img align='center' height='40' alt='YouTube' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
-
 [<img align='center' height='40' alt='Twitter' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />](https://twitter.com/fanpero87)
-
 [<img align='center' height='40' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />](https://www.linkedin.com/in/fabio-perez)
 
   
