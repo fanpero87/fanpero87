@@ -3,19 +3,19 @@
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
 <a href='https://github.com/fanpero87'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />
+<img align="center" height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
 </a> 
- <a href='https://github.com/fanpero87'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />
+<a href='https://github.com/fanpero87'>
+<img align="center" height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
 </a>  
-  <a href='https://github.com/fanpero87'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />
+<a href='https://github.com/fanpero87'>
+<img align="center" height='40'src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
 </a> 
-  <a href='https://github.com/fanpero87'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />
+<a href='https://github.com/fanpero87'>
+<img align="center" height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
 </a> 
   
-  <br>
+<br>
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />](https://github.com/fanpero87)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' align='center' />](https://stackoverflow.com/users/16187102/fanpero87) 
