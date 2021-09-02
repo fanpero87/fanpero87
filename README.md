@@ -21,9 +21,7 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 
 <img align="left" height='40' alt="Laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
-<img align="left" height='40' alt="Livewire" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/livewire/livewire.png" />
-
-<img align="left" height='40' alt="Alpine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/alpine/alpine.png" />
+<img align="left" height='40' alt="Livewire" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png" />
 
 <img align="left" height='40' alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -41,9 +39,6 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 
 <img align="left" height='40' alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 
-<img align="left" height='40' alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vmware/vmware.png" />
-
-<img align="left" height='40' alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/proxmox/proxmox.png" />
 <br />
 <hr>
 
