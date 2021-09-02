@@ -2,26 +2,15 @@
 
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
-<a href='https://github.com/fanpero87'>
-<img align="center" height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
-</a> 
-<a href='https://github.com/fanpero87'>
-<img align="center" height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
-</a>  
-<a href='https://github.com/fanpero87'>
-<img align="center" height='40'src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
-</a> 
-<a href='https://github.com/fanpero87'>
-<img align="center" height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' />
-</a> 
-  
-<br>
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center' />](https://github.com/fanpero87)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' align='center' />](https://stackoverflow.com/users/16187102/fanpero87) 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height='40' align='center' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height='40' align='center' />](https://twitter.com/fanpero87)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height='40' align='center' />](https://www.linkedin.com/in/fabio-perez)
+[<img align='center' height='40' alt='github' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' />](https://github.com/fanpero87)
+
+[<img align='center' height='40' alt='stackoverflow' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />](https://stackoverflow.com/users/16187102/fanpero87) 
+
+[<img align='center' height='40' alt='YouTube' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
+
+[<img align='center' height='40' alt='Twitter' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />](https://twitter.com/fanpero87)
+
+[<img align='center' height='40' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />](https://www.linkedin.com/in/fabio-perez)
 
   
 - 🌱 Currently learning how to be a Full-Stack dev using the [TALL][TALL] stack (fyi [Livewire][Livewire] is awesome!)  🤣
