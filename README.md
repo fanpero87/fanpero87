@@ -39,6 +39,8 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 <hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [youtube]: https://youtube.com/fanpero87
 [twitter]: https://twitter.com/fanpero87
