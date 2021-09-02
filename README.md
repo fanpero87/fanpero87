@@ -2,9 +2,9 @@
 
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
-[<img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 - 🌱 Currently learning how to be a Full-Stack dev using the [TALL][TALL] stack (fyi [Livewire][Livewire] is awesome!)  🤣
@@ -37,7 +37,7 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 
 [![Fanperos's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Profile views](https://gpvc.arturio.dev/fanpero87) 
 
 [youtube]: https://youtube.com/fanpero87
 [twitter]: https://twitter.com/fanpero87
