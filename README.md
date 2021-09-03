@@ -4,7 +4,7 @@
 
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
-- 🌱 Currently learning how to be a Full-Stack dev using the [TALL][TALL] stack (fyi [Livewire][Livewire] is awesome!)  🤣
+- 🌱 Currently learning how to be a Full-Stack dev using the [TALL](https://tallstack.dev) stack (fyi [Livewire](https://laravel-livewire.com) is awesome!)  🤣
 - :innocent: I also want to learn JavaScript and Vue
 - :dizzy_face: Besides all of that, DevOps it's something I'm also looking forward to learn.
 
