@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning how to be a [Laravel](https://laravel.com) Full-Stack dev using the [TALL](https://tallstack.dev) stack (fyi [Livewire](https://laravel-livewire.com) is awesome!)  🤣
 - :innocent: I also want to learn JavaScript and Vue
-- :dizzy_face: Besides all of that, DevOps it's something I'm also looking forward to learn.
+- :dizzy_face: Besides all of that, DevOps it's something I'm also looking forward to learn
 
 It's gonna take a while to get where I want to be, but I know I can do it :muscle:
 
