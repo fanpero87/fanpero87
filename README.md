@@ -1,5 +1,7 @@
 # Hi there, it's Fabio from Canada 👋
 
+![Profile views](https://gpvc.arturio.dev/fanpero87) 
+
 ✨ I’m a junior DevOps and full-stack web developer ✨
 
 - 🌱 Currently learning how to be a Full-Stack dev using the [TALL][TALL] stack (fyi [Livewire][Livewire] is awesome!)  🤣
@@ -37,10 +39,4 @@ It's gonna take a while to get where I want to be, but I know I can do it :muscl
 
 [![Fanperos's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanpero87)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/fanpero87) 
 
-[youtube]: https://youtube.com/fanpero87
-[twitter]: https://twitter.com/fanpero87
-[linkedin]: https://linkedin.com/in/fabio-perez
-[TALL]: https://tallstack.dev
-[Livewire]:https://laravel-livewire.com
