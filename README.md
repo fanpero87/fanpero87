@@ -1,22 +1,22 @@
-# Hi there, it's Fabio from Canada 👋
+# Hi there, you're friend Fabio here 👋 🇨🇦
 
-![Profile views](https://gpvc.arturio.dev/fanpero87) 
+✨ I’m a Motivated DevOps and Full Stack Developer ✨
 
-✨ I’m a junior DevOps and full-stack web developer ✨
+- 🌱 Everyday I learn a bit more how to be a [Laravel](https://laravel.com) Full Stack dev using the [TALL](https://tallstack.dev) stack (fyi [Livewire](https://laravel-livewire.com) is awesome!)  🤣
+- 🤓 DevOps it's also something Im passionate about. Learning new systems, tools and ways to do thing is fantastic.
 
-- 🌱 Currently learning how to be a [Laravel](https://laravel.com) Full-Stack dev using the [TALL](https://tallstack.dev) stack (fyi [Livewire](https://laravel-livewire.com) is awesome!)  🤣
-- :innocent: I also want to learn JavaScript and Vue
-- :dizzy_face: Besides all of that, DevOps it's something I'm also looking forward to learn
+At the end of the day, progress is progress even if slow 🥳
 
-It's gonna take a while to get where I want to be, but I know I can do it :muscle:
+It's gonna take a while to get where I want to be, but I know I can do it 💪
 
 <br />
 
-[<img align='center' height='40' alt='github' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' />](https://github.com/fanpero87)
-[<img align='center' height='40' alt='stackoverflow' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />](https://stackoverflow.com/users/16187102/fanpero87) 
-[<img align='center' height='40' alt='YouTube' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
-[<img align='center' height='40' alt='Twitter' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />](https://twitter.com/fanpero87)
-[<img align='center' height='40' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />](https://www.linkedin.com/in/fabio-perez)
+## Social Media Links
+[<img align='center' height='40' alt='github' src='https://cdn.jsdelivr.net/npm/simple-icons@12.0.0/icons/github.svg' />](https://github.com/fanpero87)
+[<img align='center' height='40' alt='stackoverflow' src='https://cdn.jsdelivr.net/npm/simple-icons@12.0.0/icons/stackoverflow.svg' />](https://stackoverflow.com/users/16187102/fanpero87) 
+[<img align='center' height='40' alt='YouTube' src='https://cdn.jsdelivr.net/npm/simple-icons@12.0.0/icons/youtube.svg' />](https://www.youtube.com/channel/UC2Qggdwj57MdQYtzIrlU8Yw)
+[<img align='center' height='40' alt='X' src='https://cdn.jsdelivr.net/npm/simple-icons@12.0.0/icons/x.svg' />](https://x.com/fanpero87)
+[<img align='center' height='40' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@12.0.0/icons/linkedin.svg' />](https://www.linkedin.com/in/fabio-perez)
 
 <br />
 
